@@ -10,3 +10,6 @@
     -TKY
 .性別
     -male
+
+#git command
+git push -u origin develop : localのbranch(develop)をgithubに追加
