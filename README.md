@@ -9,4 +9,8 @@
 .出身
     -TKY
 .性別
-    -female
+<<<<<<< HEAD
+    
+=======
+    -male
+>>>>>>> develop
