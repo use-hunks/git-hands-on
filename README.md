@@ -6,3 +6,5 @@
     -shunsuke
 .学校
     -wajijij
+.出身
+    -TKY
