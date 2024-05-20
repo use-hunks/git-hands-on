@@ -3,13 +3,10 @@
 ##自己紹介
 
 .名前
-    -shunsuke
+    -XXX
 .学校
-    -wajijij
+    -XXX
 .出身
-    -TKY
+    -XXX
 .性別
-    -male
 
-#git command
-git push -u origin develop : localのbranch(develop)をgithubに追加
