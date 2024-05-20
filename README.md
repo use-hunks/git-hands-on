@@ -8,3 +8,5 @@
     -wajijij
 .出身
     -TKY
+.性別
+    -female
